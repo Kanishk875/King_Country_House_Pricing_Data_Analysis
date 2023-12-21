@@ -7,3 +7,5 @@ Dataset Used in this Project
 The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. It was taken from 
 here : 
 https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+![README](https://github.com/Kanishk875/King_Country_House_Pricing_Data_Analysis/assets/115444812/f5c9c3e7-3cf6-476e-a558-45eeb12e9292)
+
